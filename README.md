@@ -1,2 +1,2 @@
 # learngit
-my first repository
+ffaamy first repository
